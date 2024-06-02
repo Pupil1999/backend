@@ -1,0 +1,6 @@
+db.sqlite3
+media
+backend/__pycache__
+video/__pycache__
+video/migrations
+videos
